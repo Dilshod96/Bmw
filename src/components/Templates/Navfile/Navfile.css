@@ -1,0 +1,43 @@
+.navbar {
+  transition: 0.6s ease;
+  padding: 2px 5px !important;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255,255,255,0.20);
+  box-shadow: 0 .2rem 2rem rgba(200,200,200,0.20);
+}
+.navbar:hover {
+  background-color: rgba(255,255,255,0.90);
+}
+.navbar.colorChange {
+  background-color: rgba(255,255,255,0.90);
+}
+.navbar-brand {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.logo {
+  width: 35px;
+  border-radius: 50%;
+}
+.nav-link {
+  font-weight: bolder;
+}
+.mysearchcard {
+  overflow: hidden;
+  border-radius: 5px;
+  border: solid 1px gray;
+}
+.mysearchbtn {
+  font-size: 14px !important;
+  color: gray!important;
+  border: none !important;
+  border-left: solid 1px gray !important;
+  background-color: rgba(255,255,255,0.10) !important;
+}
+.mysearchinside {
+  border: none !important;
+  background-color: rgba(255,255,255,0.10) !important;
+}
+.container-fluid {
+  padding: 0px !important;
+}

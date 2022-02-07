@@ -1,0 +1,76 @@
+.series_header {
+  background: url(../../../static/img/sr.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.series_header_body {
+  background-color: rgba(10,10,10,0.60);
+}
+.series_header_body_card {
+  width: 100vw;
+  height: 80vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+.series_header_body_card_text {
+  color: white;
+  max-width: 600px;
+  margin-left: 5%;
+}
+.series_card_row_list {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgba(200,200,200,0.20);
+  transition: 0.30s ease-in-out;
+}
+.series_card_row_list:hover {
+  background-color: rgba(255,255,255,0.90);
+}
+.my_light {
+  background-color: rgba(200,200,200,0.30);
+}
+.series_card_img {
+  margin: auto;
+  width: 100%;
+  transition: 0.15s ease-in-out;
+}
+.series_card_img:hover {
+  filter: opacity(0.6);
+}
+.series_card_box {
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+}
+html {
+  scroll-behavior: smooth;
+}
+nav {
+  top: 0;
+  z-index: 1030;
+  position: sticky;
+  backdrop-filter: blur(20px);
+  /* background-color: rgba(255,255,255,0.10); */
+}
+nav .container {
+  margin: 0px;
+}
+nav .container ul li {
+  display: inline-block;
+}
+nav .container ul li a {
+  color: black;
+  padding: 12px 12px;
+  display: inline-block;
+  text-decoration: none;
+}
+nav .container ul li.active {
+  border-top:solid 2px transparent;
+  border-bottom:solid 2px blue;
+}
+nav .container ul li.active a {
+  color: black;
+}

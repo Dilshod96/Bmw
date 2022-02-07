@@ -1,0 +1,47 @@
+.about_header {
+  background: url(../../../static/img/ab.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.about_header_body {
+  background-color: rgba(10,10,10,0.60);
+}
+.about_header_body_card {
+  width: 100vw;
+  height: 80vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+.about_header_body_card_text {
+  color: white;
+  max-width: 600px;
+  margin-left: 5%;
+}
+.about_card_row_list {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgba(200,200,200,0.20);
+  transition: 0.30s ease-in-out;
+}
+.about_card_row_list:hover {
+  background-color: rgba(255,255,255,0.90);
+}
+.my_light {
+  background-color: rgba(200,200,200,0.30);
+}
+.about_card_img {
+  margin: auto;
+  width: 100%;
+  transition: 0.15s ease-in-out;
+}
+.about_card_img:hover {
+  filter: opacity(0.6);
+}
+.about_card_box {
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+}

@@ -1,0 +1,105 @@
+.home_header {
+  background: url(../../../static/img/hd.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.home_header_body {
+  background-color: rgba(10,10,10,0.60);
+}
+.home_header_body_card {
+  width: 100vw;
+  height: 80vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+.home_header_body_card_text {
+  color: white;
+  max-width: 600px;
+  margin-left: 5%;
+}
+.card_box_row_list {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card_box_header {
+  margin: 20px;
+  width: 100%;
+  max-width: 600px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.30s ease-in-out;
+}
+.card_box_header:hover {
+  filter: opacity(0.6);
+}
+.card_box_body {
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-color: #f6f6f6;
+  background-repeat: no-repeat;
+} 
+.card_box_body img {
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+  position: absolute;
+}
+.card_box_body_text {
+  width: 100%;
+  bottom: 0px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  position: absolute;
+  background: linear-gradient(transparent, black);
+}
+.card_box_body_text_padding {
+  padding-bottom: 50%;
+}
+.Build_header_bg {
+  background-color: #F6F6F6;
+}
+.Build_header {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+.original_header {
+  background: url(../../../static/img/bmw.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.original_header_body {
+  background-color: rgba(10,10,10,0.60);
+}
+.original_header_body_card {
+  width: 100vw;
+  height: 70vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+.original_header_body_card_text {
+  color: white;
+  max-width: 360px;
+  margin-left: 5%;
+}
+.ownership_header {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+

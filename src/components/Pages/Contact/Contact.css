@@ -1,0 +1,38 @@
+.contact_header {
+  background: url(../../../static/img/cn.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.contact_header_body {
+  background-color: rgba(10,10,10,0.60);
+}
+.contact_header_body_card {
+  width: 100vw;
+  height: 80vh;
+  display: table-cell;
+  vertical-align: middle;
+}
+.contact_header_body_card_text {
+  color: white;
+  max-width: 600px;
+  margin-left: 5%;
+}
+.contact_header_cn1 {
+  background: url(../../../static/img/cn1.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.contact_header_cn2 {
+  background: url(../../../static/img/cn2.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.contact_header_cn3 {
+  background: url(../../../static/img/cn3.jpg)
+  no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
