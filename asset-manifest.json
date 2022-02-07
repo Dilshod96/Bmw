@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bmw/static/css/main.0bf4dbda.css",
-    "main.js": "/bmw/static/js/main.f7d9aca6.js",
+    "main.js": "/bmw/static/js/main.35e6ba89.js",
     "static/media/c2.jpg": "/bmw/static/media/c2.cc5552d0d85a9620fbd8.jpg",
     "static/media/c4.jpg": "/bmw/static/media/c4.6549fe3db78de9b463b4.jpg",
     "static/media/ab3.jpg": "/bmw/static/media/ab3.d8e332b1b57d9a7280ce.jpg",
@@ -34,10 +34,10 @@
     "static/media/lg.png": "/bmw/static/media/lg.72dfc9f1a4ffc1bb6cd3.png",
     "index.html": "/bmw/index.html",
     "main.0bf4dbda.css.map": "/bmw/static/css/main.0bf4dbda.css.map",
-    "main.f7d9aca6.js.map": "/bmw/static/js/main.f7d9aca6.js.map"
+    "main.35e6ba89.js.map": "/bmw/static/js/main.35e6ba89.js.map"
   },
   "entrypoints": [
     "static/css/main.0bf4dbda.css",
-    "static/js/main.f7d9aca6.js"
+    "static/js/main.35e6ba89.js"
   ]
 }
