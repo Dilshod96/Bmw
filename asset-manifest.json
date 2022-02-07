@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bmw/static/css/main.0bf4dbda.css",
+    "main.js": "/bmw/static/js/main.f7d9aca6.js",
+    "static/media/c2.jpg": "/bmw/static/media/c2.cc5552d0d85a9620fbd8.jpg",
+    "static/media/c4.jpg": "/bmw/static/media/c4.6549fe3db78de9b463b4.jpg",
+    "static/media/ab3.jpg": "/bmw/static/media/ab3.d8e332b1b57d9a7280ce.jpg",
+    "static/media/ab1.jpg": "/bmw/static/media/ab1.2a5505eb00f22be04dd1.jpg",
+    "static/media/hd.jpg": "/bmw/static/media/hd.9db47dfe78e2adc184f1.jpg",
+    "static/media/cn.jpg": "/bmw/static/media/cn.cc0947e888fb0437d89b.jpg",
+    "static/media/ab2.jpg": "/bmw/static/media/ab2.1bb91bd1c6df495ea262.jpg",
+    "static/media/cn1.jpg": "/bmw/static/media/cn1.337ff9dfbc06a9867921.jpg",
+    "static/media/cn3.jpg": "/bmw/static/media/cn3.dbb6fe528d47f45e2eac.jpg",
+    "static/media/cn2.jpg": "/bmw/static/media/cn2.d9bbbc3dba5128bef113.jpg",
+    "static/media/b4.jpg": "/bmw/static/media/b4.185c94e79dbf19ed537e.jpg",
+    "static/media/l3.png": "/bmw/static/media/l3.1d1e685c29ea1663b289.png",
+    "static/media/ab5.jpg": "/bmw/static/media/ab5.be28a05e98adc1dc1556.jpg",
+    "static/media/ab4.jpg": "/bmw/static/media/ab4.dac069be7fb02ae01052.jpg",
+    "static/media/b2.jpg": "/bmw/static/media/b2.7e6386ecac81f7888a35.jpg",
+    "static/media/ab.jpg": "/bmw/static/media/ab.44a3667e4a69491c7c5c.jpg",
+    "static/media/b1.jpg": "/bmw/static/media/b1.cbc90df00de8a5ecd89b.jpg",
+    "static/media/b3.jpg": "/bmw/static/media/b3.4786794e9ac95ef07a47.jpg",
+    "static/media/x1.jpg": "/bmw/static/media/x1.0f71edc45e82399c70f0.jpg",
+    "static/media/x5.jpg": "/bmw/static/media/x5.8a6e4dc242b3272cba1b.jpg",
+    "static/media/sr.jpg": "/bmw/static/media/sr.92f9fd649e97e2613a53.jpg",
+    "static/media/x7.jpg": "/bmw/static/media/x7.9411a8dea9e77c4a7730.jpg",
+    "static/media/bmw.jpg": "/bmw/static/media/bmw.241a8fcf1122757a9ee2.jpg",
+    "static/media/x3.jpg": "/bmw/static/media/x3.5b2e6df5a88ea4500793.jpg",
+    "static/media/x6.jpg": "/bmw/static/media/x6.f98bea4ea5436b77c17e.jpg",
+    "static/media/x4.jpg": "/bmw/static/media/x4.1820b1c969fe2b05a01d.jpg",
+    "static/media/x2.jpg": "/bmw/static/media/x2.7ab5e4a4145a8f881ba3.jpg",
+    "static/media/c3.jpg": "/bmw/static/media/c3.9eabdcd172f9762344fd.jpg",
+    "static/media/c1.jpg": "/bmw/static/media/c1.24c536ad5af1bb841391.jpg",
+    "static/media/lg.png": "/bmw/static/media/lg.72dfc9f1a4ffc1bb6cd3.png",
+    "index.html": "/bmw/index.html",
+    "main.0bf4dbda.css.map": "/bmw/static/css/main.0bf4dbda.css.map",
+    "main.f7d9aca6.js.map": "/bmw/static/js/main.f7d9aca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf4dbda.css",
+    "static/js/main.f7d9aca6.js"
+  ]
+}
